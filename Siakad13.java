@@ -26,9 +26,9 @@ import java.util.Scanner;
 
         nilaiAkhir = (nilaiKuis + nilaiTugas + nilaiUjian) / 3;
         
-        System.out.print("Nama: " + nama + "NIM: " + nim);
-        System.out.print("Kelas: " + kelas + "Absen: " + absen);
-        System.out.print("Nilai Akhir: " + nilaiAkhir);
+        System.out.print("Nama: " + nama + " NIM: " + nim);
+        System.out.print(" Kelas: " +  kelas + " Absen: " + absen);
+        System.out.print(" Nilai Akhir: " + nilaiAkhir);
 
     }
     }
